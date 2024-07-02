@@ -1,4 +1,4 @@
-# Weather Dash Board
+# Weather Dashboard
 
 ## Description
 This is a 5 day weather tracker
@@ -11,12 +11,12 @@ This is a 5 day weather tracker
 
 
 ## Usage
+To use you can search any city and you will be greeted with the current weather and a 5 day weather forecast. You can click on recent searches and it will auto search it again.
+
+![Weather dashboard](assets/Screenshot%202024-07-01%20211504.png)
 
 
-![Task-Board](./Develop/assets/Screenshot%202024-06-18%20205800.png)
-
-
-https://brandon6ix.github.io/Task-Board-Challenge5/
+https://brandon6ix.github.io/Weather-dashboard-challenge6/
 
 
 
